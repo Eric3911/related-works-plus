@@ -1,26 +1,22 @@
-# related-woks-plus
-
 ## introduction
-   此开源项目主要是我在自己工作和研究学习中针对以下问题总结笔记不足之处欢迎通过邮件QAS和OKR方式沟通互相学习。
+此开源项目主要是我在自己工作和学习研究中针对以下问题总结笔记不足之处欢迎通过邮件QAS和OKR方式沟通互相学习，本项目主要的开源目的：系统学习计算机视觉软硬件系统
+  NIPS、ICLR 、CVPR、ICCV、ECCV
+国内经典的基础教材南瓜书：https://datawhalechina.github.io/pumpkin-book/#/,
+大数据比赛学习:https://github.com/Eric3911/CDCS,
+
    [1]低质量、多分辨率、多尺度遥感、医学、文字图像应用型研究
    [2]大数据、文本、语音、图像工程化应用型研究
    [3]传统算法+数据结构的基础研究
    [4]深度学习head、neck、loss、优化、并行方面应用研究
    [5]算法设计与芯片架构及操作系统可重组方案优化理论研究
 ## related wokrs
-GMM  https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/ ,
-Opencv  https://docs.opencv.org/3.4.5/d9/df8/tutorial_root.html ,
-Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
+   GMM  https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/ ,
+   Opencv  https://docs.opencv.org/3.4.5/d9/df8/tutorial_root.html ,
+   Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
 
-目标检测（object detection）：http://machinethink.net/blog/object-detection/,
+目标检测（object detection）：
+   http://machinethink.net/blog/object-detection/,
 
-国际信息神经处理会议NIPS
-深度学习研究方向性会议ICLR 
-国际计算机视觉模式识别CVPR
-国际计算机视觉会议ICCV
-欧洲计算机视觉会议ECCV
-国内经典的基础教材南瓜书：https://datawhalechina.github.io/pumpkin-book/#/,
-大数据比赛学习:https://github.com/Eric3911/CDCS,
 
 *认知计算(多模态神经空间动力学计算）
  https://github.com/naturomics/CapsNet-Tensorflow,
