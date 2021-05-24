@@ -22,12 +22,9 @@ Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.ht
 国内经典的基础教材南瓜书：https://datawhalechina.github.io/pumpkin-book/#/,
 大数据比赛学习:https://github.com/Eric3911/CDCS,
 
-*认知计算与多模态空间能量学习（神经动力学计算）
+**认知计算与多模态空间能量学习（神经动力学计算）
  https://github.com/naturomics/CapsNet-Tensorflow
  https://github.com/bojone/Capsule
-
-*维护视觉开源学习项目
- https://github.com/Dikea/ML-Weekly-Learning/tree/master/CV
 
 *图像算法个人开源代码库
  https://github.com/Eric3911/Code-with-Life
