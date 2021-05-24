@@ -1,0 +1,71 @@
+#Convlution
+--|TensorFlow工程地址：https://github.com/taki0112/Tensorflow-Cookbook
+--|
+--|常规卷积basic Convlution（1*1、3*3、5*5，7*7）
+--|
+--|扩张卷积Dilated-Convolution
+----|论文地址：DilatedNet — Dilated Convolution (Semantic Segmentation)
+--|
+--|空洞卷积dilated-Convolution
+----|论文地址：《MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS》
+----|代码地址： https://github.com/fyu/dilation
+--|
+--|Deformable-Convolution
+--|
+--|Partial-convolution
+--|
+--|Atrous-convolution
+--|
+--|Full-connected
+--|
+--|pixel-shuffle
+--|
+--|Het-conVolution
+--|
+--|Oct-conv
+--|
+--|反卷积Drconvolution/转置卷积 
+--|
+--|GCN图卷积
+--|
+#Block
+--|
+--|residual block
+--|
+--|se block
+--|
+--|dense block
+--|
+--|residual-dense block
+--|
+--|attention block
+--|
+--|
+#Normalization
+--|
+--|Swithable Norm
+--|
+--|Batch Norm
+--|
+--|Instance Norm
+--|
+--|Layer Norm
+--|
+#图像分类任务中的tricks总结
+
+计算机视觉主要问题有图像分类、目标检测和图像分割等。针对图像分类任务，提升准确率的方法路线有两条，一个是模型的修改，另一个是各种数据处理和训练的技巧(tricks)。图像分类中的各种技巧对于目标检测、图像分割等任务也有很好的作用，因此值得好好总结。本文在精读论文的基础上，总结了图像分类任务的各种tricks如下：
+
+gradual warmup
+代码地址：https://github.com/ildoonet/pytorch-gradual-warmup-lr
+
+Linear scaling learning rate
+Label-smoothing
+Random image cropping and patching
+Knowledge Distillation
+Cutout
+Random erasing
+Cosine learning rate decay
+Mixup training
+AdaBoud
+AutoAugment
+

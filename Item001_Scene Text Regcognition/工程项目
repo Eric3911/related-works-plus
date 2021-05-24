@@ -1,0 +1,180 @@
+项目一：人脸识别工程项目
+
+人脸识别主要以下方向：人脸检测、人脸对齐、面部特征点分析、面部重建、面部跟踪、超分辨识别、面部合成、面部复原、偏转测量、面部检索。
+最近在做一个关于驾驶员疲劳驾驶项目，要分析人脸识别做闭眼疲劳检测，首先想到的就是人脸特征点的提取，我的导师就建议我是用ASM，于是我就自学了一些它的知识，
+ASM是一种基于点分布模型（Point Distribution Model, PDM）的算法。在PDM中，外形相似的物体，例如人脸、人手、心脏、肺部等的几何形状可以通过若干关键特
+征点检测（landmarks）的坐标依次串联形成一个形状向量来表示。ASM跟大多数统计学习方法一样，也包括train和test（or fit）两部分，也就是形状建模build和形
+状匹配fit。
+DSFD人脸识别模型：
+特点：解决了多尺度、模糊图像、光照和姿态变换问题
+代码地址：https://github.com/TencentYoutuResearch/FaceDetection-DSFD
+ZQCNN实时人脸检测：
+https://github.com/zuoqing1988/ZQCNN-MTCNN-vs-libfacedetection
+
+项目二：密集型行人检测
+
+密集人群检测：
+————|SVDNet行人重识别
+    ————|https://arxiv.org/abs/1703.05693
+    ————|https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval
+    ————|https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval   
+————|Repulsion Loss遮挡行人检测
+    ————|https://arxiv.org/abs/1711.07752
+————|PS-GAN提高行人检测分辨率
+    ————|https://arxiv.org/abs/1804.02047
+————|TFusion无监督时空关联行人识别
+    ————|论文地址：https://arxiv.org/abs/1803.07293
+    ————|代码地址：https://github.com/ahangchen/TFusion 
+————|Multi-task learning
+    ————|identification+verification loss 
+————|Triplet loss
+
+
+项目三：车辆超载安全检测
+
+    参考模型：MSCNN、SaCNN、CrowdNet、CCNN、The CountingCNN 、SubCNN
+    解决的工程问题
+  1、公交车人头的密集型目标检测
+  2、客运汽车超载和过道目标检测
+  3、商场娱乐场所小目标拥挤检测
+  学术问题：小目标、遮挡问题检测
+车辆超载项目包括：
+一、数据集收集：https://github.com/desenzhou/ShanghaiTechDataset
+ 
+参考工程一：Keras实现基于MSCNN的人群计数
+代码地址  ：github：https://github.com/xiaochus/MSCNN
+论文地址  ：Multi-scale convolutional neural network for crowd counting
+工程项目地址：https://www.jianshu.com/p/29a213f22b40
+参考工程二：MTCNN实现公交车人头检测情况项目地址：https://blog.csdn.net/weixin_36474809/article/details/83305490
+FCHD：一种快速准确的人头检测模型
+论文地址：https://arxiv.org/abs/1809.08766v1
+代码地址：https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector
+CCNN
+代码地址：https://github.com/gramuah/ccnn
+Crowd-counting-scnn
+代码地址：https://github.com/val-iisc/crowd-counting-scnn
+
+项目四：蒙版弹幕项目：
+
+语义分割目前比较主流的几个应用是U/VNet在医学的相关尝试、智慧城市自动驾驶感知阶段、视频播放中的蒙版弹幕！
+————|蒙版弹幕（这是深度学习在娱乐方法非常有意义的应用，其余还有服装设计、音乐制作）
+     ——|：https://github.com/youyuge34/Mask_Danmu
+     ——|：https://www.bilibili.com/video/av25055026?from=search&seid=2709213321925987006
+
+项目五：活体检测项目：
+
+CVPR2019活体检测比赛
+第二名代码地址：https://github.com/SeuTao/CVPR19-Face-Anti-spoofing
+第三名代码地址：https://github.com/SoftwareGift/FeatheNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019
+
+项目六：点云检测与分割项目
+
+——|视频结构化和图像结构化过程中采用基于光流为基础的分形方法在底层实现每个像素的类别含义实现全景分割。
+    ——|主要用在地图构建、自动驾驶第一阶段感知、医学病灶检测、蛋白质、药物合成。
+    ——|1、他从基层使用激光雷达获得N*4（三个坐标和一个光强）的激光雷达数组及深度相机的六个数组（RGB+三个坐标）
+    ——|2、缺点多角度投射拼接导致信息丢失
+    ——|3、使用原始三维点云数据采用卷积提取特征+maxpooling及通过分层特征提取实现相关输出的分类识别任务（缺点计算量大）
+————|PointNet++ 
+————|DGCNN
+————|PointCNN
+  ——|特点：Fully connected layers、maxpooling、local context、Hierarchical learning
+
+项目七：
+图像去水印、去噪、超分辨
+
+https://github.com/DmitryUlyanov/deep-image-prior
+
+一、文字定位
+
+https://handong1587.github.io/deep_learning/2015/10/09/ocr.html
+
+这个工程是我最近的一个项目下实现的。
+
+数据集：ICDAR，SynthText
+
+目前国内最新的模型
+  
+  云从科技Pixel-Anchor
+  
+  南京大学和南京理工PSEnet
+  
+  旷视科技Mask Text
+  
+  商汤科技FOTS
+  
+  阿里巴巴IncepText
+  
+  其他模型：SLPR、Pixel-Link、R2CNN、TextBoxes++、EAST、WordSup、SSTD、Seglink、CTPN 、CRNN、GRU。
+  
+  
+
+
+
+二、文字识别
+
+2.1 CRNN
+2.2 attention-ocr
+2.3 FAN    FAN论文地址：https://arxiv.org/abs/1709.02054
+
+
+一、OCR文字识别
+
+https://handong1587.github.io/deep_learning/2015/10/09/ocr.html
+https://blog.csdn.net/qq_14845119/article/details/77979161
+https://blog.csdn.net/u011394059/article/details/77076190
+比较好的
+seglink
+R2CNN
+CRNN+yolo3
+  简单的数字识别应用
+  https://www.cnblogs.com/sjzh/p/6104105.html
+  
+二、python计算机视觉编程
+
+http://yongyuan.name/pcvwithpython/
+http://yongyuan.name/pcvwithpython/chapter1.html
+
+三、pytorch教程
+
+https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch
+
+四、目标检测
+
+https://blog.paperspace.com/
+yolo3目标检测
+https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/
+
+五、3D感知物体检测
+MC-CNN
+FlowNet
+
+
+
+OCR：几大开源库
+2015年10月08日 17:02:41 千里河山 阅读数：8658
+﻿﻿1.概述
+1）OCRE(OCR Easy)
+http://lem.eui.upm.es/ocre.html
+2）Clara OCR
+http://directory.fsf.org/claraocr.html
+3）Ocrad(based on a feature extraction)
+http://directory.fsf.org/ocrad.html
+4）GOCR
+http://sourceforge.net/projects/jocr
+5）OCRchie: Modular Optical Character Recognition Software
+http://http.cs.berkeley.edu/~fateman/kathey/ocrchie.html
+6）tesseract-ocr
+http://code.google.com/p/tesseract-ocr/
+7）Grocr
+
+http://vision.ucsd.edu/~kai/grocr/
+
+8）http://www.ocrgrid.org/
+
+9）http://www.ocrgrid.org/ocrdev.html，OCR多个开源库链接
+
+
+
+2.1 gocr和ocrad稍作修改可在Windows下编译运行；gocr用vc6, ocrad用gcc。
+2.2 OCRE,OCRchie和clara OCR需要X window或gtk不太好编译。
+2.3 tesseract 用VC 10年前的东西,太老, 里面很多代码是STL的原型。
