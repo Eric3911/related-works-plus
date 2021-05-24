@@ -63,13 +63,6 @@ https://github.com/Eric3911/icpr2018_ocr_papers
 麻省理工寒假科研交流项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI01.jpg)
 
-
-![](https://github.com/Eric3911/image/blob/master/00018.jpg),
-
-DF数钢筋比赛:![](https://github.com/Eric3911/image/blob/master/00009.jpg)
-
-宫颈癌与红细胞检测项目: ![](https://github.com/Eric3911/image/blob/master/00019.jpg)
-
 ## conclusion
 ## acknowledge
 ## References
