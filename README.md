@@ -31,11 +31,8 @@
 
 *经典论文阅读库
  https://arxiv.org/list/cs.AI/recent, https://github.com/Eric3911/Paper-Sharing,  https://github.com/Eric3911/Super-Paper, https://github.com/Eric3911/Engineering-papers, 
-![](https://github.com/Eric3911/image/blob/master/model_list.png)
-![](https://github.com/Eric3911/image/blob/master/00015.jpg)
 
 *对偶学习：一种全新的深度学习范式与未来方向之一： 基于分数阶非线性动力学与基于多模态融合表示，继强化学习、元学习、联邦学习、区块链之后让深度学习更加安全学习范式。
- ![](https://github.com/Eric3911/image/blob/master/00021.jpg)
 
 *计算机视觉科学竞赛:https://github.com/Eric3911/Visual-Science-Competition,
 
