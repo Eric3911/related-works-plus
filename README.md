@@ -16,8 +16,10 @@
 
 目标检测（object detection）：
    http://machinethink.net/blog/object-detection/,
-遥感小目标检测项目
+  **遥感小目标检测项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
+  **人体关键点检测项目
+![](https://github.com/Eric3911/image/blob/master/001/AI03.jpg)
 
 *认知计算(多模态神经空间动力学计算）
  https://github.com/naturomics/CapsNet-Tensorflow,
