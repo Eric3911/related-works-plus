@@ -77,13 +77,7 @@ https://github.com/Eric3911/icpr2018_ocr_papers
 遥感小目标检测项目:![](https://github.com/Eric3911/RFBNet_master/blob/master/000044test.jpg)
 
 麻省理工寒假科研交流项目
-![](https://github.com/Eric3911/image/blob/master/MIT.jpg)
-![](https://github.com/Eric3911/Stage/blob/master/1.jpg)
-![](https://github.com/Eric3911/Stage/blob/master/2.jpg)
-![](https://github.com/Eric3911/Stage/blob/master/3.jpg)
-![](https://github.com/Eric3911/Stage/blob/master/4.jpg)
-![](https://github.com/Eric3911/Stage/blob/master/5.jpg)
-![](https://github.com/Eric3911/image/blob/master/00001.jpg)
+![](https://github.com/Eric3911/image/blob/master/001/AI01.jpg)
 
 车辆超载项目:![](https://github.com/Eric3911/image/blob/master/000013.png)
 
