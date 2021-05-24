@@ -17,9 +17,9 @@
 目标检测（object detection）：
  http://machinethink.net/blog/object-detection/,
  
-  **遥感小目标检测项目
+【001】遥感小目标检测项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
-  **人体关键点检测项目
+【002】人体关键点检测项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI03.jpg)
 
 *认知计算(多模态神经空间动力学计算）
@@ -42,12 +42,10 @@
 
 *显著性目标检测:https://mmcheng.net/tag/salient-object-detection/,
 *计算机图形学
-          Jim Blinn's Corner: Dirty Pixels
-          Jim Blinn's Corner: A Trip Down The Graphics Pipeline
-          Jim Blinn's Corner: Notation, Notation, Notation
+          Jim Blinn's Corner: Dirty Pixels； Jim Blinn's Corner: A Trip Down The Graphics Pipeline； Jim Blinn's Corner: Notation, Notation, Notation
 
 *计算机摄影学
-            光流场和光线追踪在相控矩阵77GHZ的毫米波雷达融合
+  光流场和光线追踪在相控矩阵77GHZ的毫米波雷达融合
           
 ## approach（method）
 ## experiment
