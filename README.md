@@ -8,9 +8,10 @@
    [5]算法设计与芯片架构及操作系统可重组方案优化理论研究
 ## related wokrs
    GMM矩阵高速运算教程： https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/ ,
+   
    Opencv教程：  https://docs.opencv.org/3.4.5/d9/df8/tutorial_root.html, http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
 
-目标检测（object detection）：
+目标检测基础教程：
  http://machinethink.net/blog/object-detection/,
  
 【001】遥感小目标检测项目
