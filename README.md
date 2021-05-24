@@ -22,7 +22,7 @@ Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.ht
 国内经典的基础教材南瓜书：https://datawhalechina.github.io/pumpkin-book/#/,
 大数据比赛学习:https://github.com/Eric3911/CDCS,
 
-**认知计算(多模态神经空间动力学计算）
+*认知计算(多模态神经空间动力学计算）
  https://github.com/naturomics/CapsNet-Tensorflow,
  https://github.com/bojone/Capsule,
 
@@ -38,18 +38,18 @@ Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.ht
 ![](https://github.com/Eric3911/image/blob/master/model_list.png)
 ![](https://github.com/Eric3911/image/blob/master/00015.jpg)
 
-**对偶学习：一种全新的深度学习范式与未来方向之一： 基于分数阶非线性动力学与基于多模态融合表示，继强化学习、元学习、联邦学习、区块链之后让深度学习更加安全学习范式。
+*对偶学习：一种全新的深度学习范式与未来方向之一： 基于分数阶非线性动力学与基于多模态融合表示，继强化学习、元学习、联邦学习、区块链之后让深度学习更加安全学习范式。
  ![](https://github.com/Eric3911/image/blob/master/00021.jpg)
 
-**计算机视觉科学竞赛:https://github.com/Eric3911/Visual-Science-Competition,
+*计算机视觉科学竞赛:https://github.com/Eric3911/Visual-Science-Competition,
 
-**显著性目标检测:https://mmcheng.net/tag/salient-object-detection/,
-**计算机图形学
+*显著性目标检测:https://mmcheng.net/tag/salient-object-detection/,
+*计算机图形学
           Jim Blinn's Corner: Dirty Pixels
           Jim Blinn's Corner: A Trip Down The Graphics Pipeline
           Jim Blinn's Corner: Notation, Notation, Notation
 
-**计算机摄影学
+*计算机摄影学
             光流场和光线追踪在相控矩阵77GHZ的毫米波雷达融合
           
 ## approach（method）
