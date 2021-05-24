@@ -15,7 +15,8 @@
    Opencv  http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
 
 目标检测（object detection）：
-   http://machinethink.net/blog/object-detection/,
+ http://machinethink.net/blog/object-detection/,
+ 
   **遥感小目标检测项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
   **人体关键点检测项目
