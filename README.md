@@ -16,7 +16,8 @@
 
 目标检测（object detection）：
    http://machinethink.net/blog/object-detection/,
-
+遥感小目标检测项目
+![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
 
 *认知计算(多模态神经空间动力学计算）
  https://github.com/naturomics/CapsNet-Tensorflow,
@@ -54,13 +55,9 @@
 https://github.com/chongyangtao/Awesome-Scene-Text-Recognition
 https://github.com/Eric3911/icpr2018_ocr_papers
 
-
-遥感小目标检测项目
-![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
-麻省理工寒假科研交流项目
-![](https://github.com/Eric3911/image/blob/master/001/AI01.jpg)
-
 ## conclusion
 ## acknowledge
+麻省理工寒假科研交流项目
+![](https://github.com/Eric3911/image/blob/master/001/AI01.jpg)
 ## References
 https://opensource.org/licenses/MIT
