@@ -74,8 +74,8 @@ https://github.com/Eric3911/icpr2018_ocr_papers
 
 交通ADAS项目: ![](https://github.com/Eric3911/image/blob/master/00011.jpg),![](https://github.com/Eric3911/image/blob/master/00012.jpg),
 
-遥感小目标检测项目:![](https://github.com/Eric3911/RFBNet_master/blob/master/000044test.jpg)
-
+遥感小目标检测项目
+![](https://github.com/Eric3911/image/blob/master/001/AI02.jpg)
 麻省理工寒假科研交流项目
 ![](https://github.com/Eric3911/image/blob/master/001/AI01.jpg)
 
