@@ -1,5 +1,5 @@
 ## introduction
-此开源项目主要是我在自己工作和学习研究中针对以下问题总结笔记不足之处欢迎通过邮件QAS和OKR方式沟通互相学习，本项目主要的开源目的是系统学习计算机视觉软硬件系统与算法应用，参考课程:http://cs231n.stanford.edu/, https://www.deeplearning.ai/, https://datawhalechina.github.io/pumpkin-book/#/,https://cg.cs.tsinghua.edu.cn/jittor/assets/docs/index.html. 
+此开源项目主要是我在自己工作和学习研究中针对以下问题总结笔记不足之处欢迎通过邮件QAS和OKR方式沟通互相学习，本项目主要的开源目的是系统学习计算机视觉软硬件系统与算法应用，参考课程:http://cs231n.stanford.edu/, https://www.deeplearning.ai/, https://datawhalechina.github.io/pumpkin-book/#/, https://cg.cs.tsinghua.edu.cn/jittor/assets/docs/index.html. 
 相关前沿工作会议：NIPS、ICLR 、CVPR、ICCV、ECCV, 相关大数据比赛学习:https://github.com/Eric3911/CDCS,
    [1]低质量、多分辨率、多尺度遥感、医学、文字图像应用型研究
    [2]大数据、文本、语音、图像工程化应用型研究
@@ -7,8 +7,8 @@
    [4]深度学习head、neck、loss、优化、并行方面应用研究
    [5]算法设计与芯片架构及操作系统可重组方案优化理论研究
 ## related wokrs
-   GMM  https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/ ,
-   Opencv教程  https://docs.opencv.org/3.4.5/d9/df8/tutorial_root.html ,http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
+   GMM矩阵高速运算教程： https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/ ,
+   Opencv教程：  https://docs.opencv.org/3.4.5/d9/df8/tutorial_root.html, http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html ,
 
 目标检测（object detection）：
  http://machinethink.net/blog/object-detection/,
@@ -22,8 +22,7 @@
  https://github.com/naturomics/CapsNet-Tensorflow, https://github.com/bojone/Capsule,
 
 *图像算法个人开源代码库
- https://github.com/Eric3911/Code-with-Life,
- https://github.com/Eric3911/Coding-learning,
+ https://github.com/Eric3911/Code-with-Life, https://github.com/Eric3911/Coding-learning,
 
 *计算机视觉科学竞赛: https://github.com/Eric3911/Visual-Science-Competition,
 *显著性目标检测: https://mmcheng.net/tag/salient-object-detection/,
@@ -46,8 +45,7 @@
 
 自然场景文本识别项目
   文字识别使用超分辨和对抗生成宋体后使用FAN/Attention识别最具有工程意义和学术价值,其中金老师做的基于强化学习的模型FOTS模型也是一个很好方向。
-https://github.com/chongyangtao/Awesome-Scene-Text-Recognition
-https://github.com/Eric3911/icpr2018_ocr_papers
+https://github.com/chongyangtao/Awesome-Scene-Text-Recognition, https://github.com/Eric3911/icpr2018_ocr_papers
 
 ## conclusion
 ## acknowledge
